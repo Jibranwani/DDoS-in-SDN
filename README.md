@@ -1,14 +1,14 @@
 # DDoS Detection And Mitigation In SDN
 
-OpenFlow
+-> OpenFlow
 
-Mininet
+-> Mininet
 
-POX Controller
+-> POX Controller
 
-RYU Controller
+-> RYU Controller
 
-Miniedit
+-> Miniedit
 
 
 ## Procedure:
